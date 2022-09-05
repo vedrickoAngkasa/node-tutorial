@@ -12,3 +12,5 @@
 // manual approach (create package. j son in the root, create properties etc)
 // npm init (step by step, press enter to skip)
 // npm init -y (everything default)
+
+//package-lock.json stores information regarding all the dependencies from pacakage.json
